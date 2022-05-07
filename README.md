@@ -1,4 +1,4 @@
-# In this "Notebook" I answered some questions over a data-set that I got from "Kaggle".  The mentioned questions;
+In this "Notebook" I answered some questions over a data-set that I got from "Kaggle".  The mentioned questions;
 How does the data look?
 How is the distribution of "Purchase Price " by Browser?
 How is the distribution of "Purchase Price " by part of day?
